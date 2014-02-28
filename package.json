@@ -1,0 +1,19 @@
+{
+  "name": "polymer-three-js",
+  "version": "0.0.0",
+  "description": "three-js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Polymer/three-js"
+  },
+  "author": "",
+  "license": "???",
+  "bugs": {
+    "url": "https://github.com/Polymer/three-js/issues"
+  },
+  "dependencies": {
+    "platform": "~1.0.0",
+    "polymer": "~0.4.1"
+  }
+}
